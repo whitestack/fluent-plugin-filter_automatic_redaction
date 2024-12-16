@@ -1,0 +1,10 @@
+[
+  {
+    "input_message": "Lorem Ipsum 00-B0-D0-63-C2-26 Lorem Ipsum",
+    "output_message": "Lorem Ipsum <MAC> Lorem Ipsum"
+  },
+  {
+    "input_message": "Lorem Ipsum 00-B0-D0-63-C2-26 Lorem Ipsum",
+    "output_message": "Lorem Ipsum <MAC> Lorem Ipsum"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "input_message": "Lorem Ipsum [INFO] Lorem Ipsum",
+    "output_message": "Lorem Ipsum [<LOGLEVEL>] Lorem Ipsum"
+  },
+  {
+    "input_message": "Lorem Ipsum [WARN] Lorem Ipsum",
+    "output_message": "Lorem Ipsum [<LOGLEVEL>] Lorem Ipsum"
+  }
+]

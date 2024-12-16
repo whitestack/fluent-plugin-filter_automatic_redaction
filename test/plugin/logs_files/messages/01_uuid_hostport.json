@@ -1,0 +1,11 @@
+[
+  {
+    "input_message": "oslo.messaging._drivers.impl_rabbit [-] [76ff78aa-c627-4858-9e9e-33bb74ee97aa] AMQP server on 10.218.15.43:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.: ConnectionRefusedError: [Errno 111] ECONNREFUSED"
+  },
+  {
+    "input_message": "oslo.messaging._drivers.impl_rabbit [-] [76ff78aa-c627-4858-9e9e-33bb74ee97aa] AMQP server on 10.218.15.44:5672 is unreachable: [Errno 111] ECONNREFUSED. Trying again in 1 seconds.: ConnectionRefusedError: [Errno 111] ECONNREFUSED"
+  },
+  {
+    "input_message": "[1df97d61-b146-4ba1-b907-81d99400990d] AMQP server on 10.100.63.14:5672 is unreachable: <RecoverableConnectionError: unknown error>. Trying again in 1 seconds.: amqp.exceptions.RecoverableConnectionError: <RecoverableConnectionError: unknown error>"
+  }
+]

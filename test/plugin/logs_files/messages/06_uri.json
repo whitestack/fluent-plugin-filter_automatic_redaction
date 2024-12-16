@@ -1,0 +1,14 @@
+[
+  {
+    "input_message": "Lorem Ipsum https://john.doe@www.example.com:1234/forum/questions/?tag=networking&order=newest Lorem Ipsum"
+  },
+  {
+    "input_message": "Lorem Ipsum https://jane.doe@www.example.com:1234/forum/questions/?tag=networking&order=newest Lorem Ipsum"
+  },
+  {
+    "input_message": "DEBUG:prometheus_webhook_snmp.utils:Receiving notification: {'receiver': 'default-receiver', 'status': 'firing', 'alerts': [{'status': 'firing', 'labels': {'alertname': 'HostOutOfDiskSpaceRootWarning', 'device': '/dev/vda1', 'fstype': 'ext4', 'instance': '10.100.63.14:9100', 'job': 'node', 'mountpoint': '/', 'severity': 'warning'}, 'annotations': {'description': 'The host root disk available space is less than 15% (7.930775973250502%).', 'summary': 'Host 10.100.63.14:9100 is out of disk space'}, 'startsAt': '2024-11-25T23:55:16.8Z', 'endsAt': '2024-11-25T23:59:16.8Z', 'generatorURL': 'http://10.100.63.127:9091/graph?g0.expr=%28node_filesystem_avail_bytes%7Bmountpoint%3D%22%2F%22%7D+%2A+100%29+%2F+node_filesystem_size_bytes%7Bmountpoint%3D%22%2F%22%7D+%3C+15&g0.tab=1', 'fingerprint': '4eecf2006ca819a6'}], 'groupLabels': {}, 'commonLabels': {'alertname': 'HostOutOfDiskSpaceRootWarning', 'device': '/dev/vda1', 'fstype': 'ext4', 'instance': '10.100.63.14:9100', 'job': 'node', 'mountpoint': '/', 'severity': 'warning'}, 'commonAnnotations': {'description': 'The host root disk available space is less than 15% (7.930775973250502%).', 'summary': 'Host 10.100.63.14:9100 is out of disk space'}, 'externalURL': 'http://10.100.63.127:9093', 'version': '4', 'groupKey': '{}:{}', 'truncatedAlerts': 0}"
+  },
+  {
+    "input_message": "Lorem Ipsum http://10.100.63.127:9091/graph?g0.expr=%28node_filesystem_avail_bytes%7Bmountpoint%3D%22%2F%22%7D+%2A+100%29+%2F+node_filesystem_size_bytes%7Bmountpoint%3D%22%2F%22%7D+%3C+15&g0.tab=1 Lorem Ipsum http://10.100.63.127:9093 Lorem Ipsum"
+  }
+]

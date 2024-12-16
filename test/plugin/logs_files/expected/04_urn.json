@@ -1,0 +1,10 @@
+[
+  {
+    "input_message": "Lorem Ipsum urn:whitestack:whitecloud Lorem Ipsum",
+    "output_message": "Lorem Ipsum <URN> Lorem Ipsum"
+  },
+  {
+    "input_message": "Lorem Ipsum urn:whitestack:whitestorage Lorem Ipsum",
+    "output_message": "Lorem Ipsum <URN> Lorem Ipsum"
+  }
+]

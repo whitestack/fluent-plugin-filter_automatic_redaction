@@ -1,0 +1,10 @@
+[
+  {
+    "input_message": "Lorem Ipsum john.doe@whitestack.com Lorem Ipsum",
+    "output_message": "Lorem Ipsum <EMAILADDRESS> Lorem Ipsum"
+  },
+  {
+    "input_message": "Lorem Ipsum jane.doe@whitestack.com Lorem Ipsum",
+    "output_message": "Lorem Ipsum <EMAILADDRESS> Lorem Ipsum"
+  }
+]

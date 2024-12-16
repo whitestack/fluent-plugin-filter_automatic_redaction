@@ -1,0 +1,10 @@
+[
+  {
+    "input_message": "Lorem Ipsum 2024-10-29T15:00:00-03:00 Lorem Ipsum",
+    "output_message": "Lorem Ipsum <TIMESTAMP_ISO8601> Lorem Ipsum"
+  },
+  {
+    "input_message": "Lorem Ipsum 2024-10-29T16:00:00-03:00 Lorem Ipsum",
+    "output_message": "Lorem Ipsum <TIMESTAMP_ISO8601> Lorem Ipsum"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "input_message": "Lorem Ipsum 'John Doe' Lorem Ipsum",
+    "output_message": "Lorem Ipsum <QUOTEDSTRING> Lorem Ipsum"
+  },
+  {
+    "input_message": "Lorem Ipsum 'Jane Doe' Lorem Ipsum",
+    "output_message": "Lorem Ipsum <QUOTEDSTRING> Lorem Ipsum"
+  }
+]
